@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "darthvader.png"
+    },
+    {
+      "id": 2,
+      "image": "ahsoka.png"    
+    },
+    {
+      "id": 3,
+      "image": "darthmaul.png"
+    },
+    {
+      "id": 4,
+      "image": "chewie.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "kyloren.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "princessleia.jpg"
+    },
+    {
+      "id": 7,
+      "image": "stormtrooper.jpg"
+    },
+    {
+      "id": 8,
+      "image": "rey.png"
+    },
+    {
+      "id": 9,
+      "image": "generalgrievous.jpg"
+    },
+    {
+      "id": 10,
+      "image": "yoda.png"
+    },
+    {
+      "id": 11,
+      "image": "bobafett.png"
+    },
+    {
+      "id": 12,
+      "image": "youngobewan.jpg"
+    }
+  ]
+  

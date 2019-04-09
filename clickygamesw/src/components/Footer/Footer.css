@@ -1,0 +1,14 @@
+.footer{
+	background-color: transparent;
+	width: 100%;
+	position: relative;
+}
+
+.footer p{
+	margin-top: 125px;
+	color:red;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 18px;
+	background-color: black;
+}

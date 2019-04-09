@@ -1,0 +1,47 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+.itemLeft {
+  font-size: 24px;
+  padding: 2px;
+  width: 300px;
+}
+
+.itemCenter {
+  margin-left: 300px;
+  font-size: 24px;
+  padding: 2px;
+	width: 300px;
+}
+
+.itemRight {
+  margin-left: 300px;
+  font-size: 24px;
+  padding: 2px;
+  width: 200px;
+}
+
+.navbar {
+  padding-bottom: 10px;
+  color: red;
+  opacity: 0.7;
+  background-color: black;
+  border-bottom: solid 1px red;
+}
+
+li {
+  color: red;
+  padding: 15px 0;
+}
+
+h5 {
+ margin-left: 200px;
+ padding: 0;
+}
+
+
+body {
+  font-size: 24px;
+}
