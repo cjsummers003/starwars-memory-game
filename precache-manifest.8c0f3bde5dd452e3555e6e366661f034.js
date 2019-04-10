@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/darthvader.f2600520.png"
   },
   {
-    "revision": "69a0cac37d7db74d980e",
-    "url": "/static/css/main.3e813660.chunk.css"
+    "revision": "29b0a20901d98096ca8d",
+    "url": "/static/css/main.03a9aa96.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/darthmaul.495f1f01.png"
   },
   {
-    "revision": "69a0cac37d7db74d980e",
-    "url": "/static/js/main.d38cdaf4.chunk.js"
+    "revision": "29b0a20901d98096ca8d",
+    "url": "/static/js/main.f2d92032.chunk.js"
   },
   {
     "revision": "3672643061e31acab8c06b28e23ab761",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/youngobewan.d40e8eb5.jpg"
   },
   {
-    "revision": "3e79aeecfe8b818dc5bb8d16c485e0a4",
+    "revision": "5b988c78dfef6ae7c0efc3f79d9116c7",
     "url": "/index.html"
   }
 ];
